@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTL30-10R1-103B2
+D Slide Potentiometers 10Kohms Travel=30mm Center Detent
+K
+F https://componentsearchengine.com/Datasheets/1/PTL30-10R1-103B2.pdf
+$ENDCMP
+#
+#End Doc Library

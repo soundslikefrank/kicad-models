@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL1265RGQTCLR
+D SWITCH TACTILE SPST-NO 0.05A 12V
+K
+F https://datasheet.lcsc.com/szlcsc/E-Switch-TL1265RGQTCLR_C273513.pdf
+$ENDCMP
+#
+#End Doc Library

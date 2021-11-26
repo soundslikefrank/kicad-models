@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP150AUJZ-3.3-R7
+D Linear Voltage Regulators Ultralow Noise 150mA CMOS
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP150.pdf
+$ENDCMP
+#
+#End Doc Library

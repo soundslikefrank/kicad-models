@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AHCT244PW
+D Texas Instruments SN74AHCT244PW Octal Buffer & Line Driver, 3-State, 5V, 20-Pin TSSOP
+K
+F http://www.ti.com/lit/gpn/SN74AHCT244
+$ENDCMP
+#
+#End Doc Library

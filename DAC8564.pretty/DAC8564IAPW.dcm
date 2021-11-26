@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DAC8564IAPW
+D 16-Bit, Quad Channel, Ultra-Low Glitch, Voltage Output DAC with 2.5V, 2ppm/C Internal Reference
+K
+F http://www.ti.com/lit/gpn/dac8564
+$ENDCMP
+#
+#End Doc Library

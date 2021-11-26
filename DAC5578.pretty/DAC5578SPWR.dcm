@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DAC5578SPWR
+D 8-bit, Octal Channel, Ultra-Low Glitch, Voltage Output, 2-Wire Interface DAC
+K
+F http://www.ti.com/lit/gpn/DAC5578
+$ENDCMP
+#
+#End Doc Library

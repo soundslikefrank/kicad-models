@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD-50BV
+D Circular DIN Connectors DIN, 5P jack, vertical, through hole
+K
+F http://www.mouser.com/datasheet/2/670/sd-xxbv_series-1312757.pdf
+$ENDCMP
+#
+#End Doc Library
