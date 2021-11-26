@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5328BRUZ
+D AD5328BRUZ, 12-Bit General Purpose DAC 8-channel 167ksps, SPI, Microwire, 16-Pin TSSOP
+K
+F http://www.analog.com/static/imported-files/data_sheets/AD5308_5318_5328.pdf
+$ENDCMP
+#
+#End Doc Library
