@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP23018-E_SO
+D I/O Expander 16Bit I2C Open-Drain SOIC28
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000145813.pdf
+$ENDCMP
+#
+#End Doc Library
