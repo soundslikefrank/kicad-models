@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA172IDR
+D 36-V, Single-Supply, 10-MHz, Rail-to-Rail Output, Operational Amplifier
+K
+F http://www.ti.com/lit/gpn/opa172
+$ENDCMP
+#
+#End Doc Library
