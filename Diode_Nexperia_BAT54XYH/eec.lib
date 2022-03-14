@@ -1,0 +1,95 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Nexperia BAT54XYH
+#
+DEF BAT54XYH D 0 40 Y Y 2 L N
+F0 "D" 0 200 50 H V L CNN 
+F1 "BAT54XYH" 0 300 50 H V L CNN 
+F2 "Nexperia-SOT363-11_2018-0-*" 0 400 50 H I L CNN 
+F3 "https://assets.nexperia.com/documents/data-sheet/BAT54XY.pdf" 0 500 50 H I L CNN 
+F4 "+125°C" 0 600 50 H I L CNN "ambient temperature range high"
+F5 "-55°C" 0 700 50 H I L CNN "ambient temperature range low"
+F6 "Yes" 0 800 50 H I L CNN "automotive"
+F7 "Grade 1" 0 900 50 H I L CNN "automotive grade"
+F8 "10pF" 0 1000 50 H I L CNN "capacitance"
+F9 "Diode" 0 1100 50 H I L CNN "category"
+F10 "Discrete Semiconductors" 0 1200 50 H I L CNN "device class L1"
+F11 "Diodes" 0 1300 50 H I L CNN "device class L2"
+F12 "Schottky Diodes" 0 1400 50 H I L CNN "device class L3"
+F13 "DIODE ARRAY SCHOTTKY 30V SC-88" 0 1500 50 H I L CNN "digikey description"
+F14 "1727-2723-1-ND" 0 1600 50 H I L CNN "digikey part number"
+F15 "https://assets.nexperia.com/documents/outline-drawing/SOT363.pdf" 0 1700 50 H I L CNN "footprint url"
+F16 "200mA" 0 1800 50 H I L CNN "forward current"
+F17 "1.1mm" 0 1900 50 H I L CNN "height"
+F18 "Yes" 0 2000 50 H I L CNN "lead free"
+F19 "374a3860a4aefc37" 0 2100 50 H I L CNN "library id"
+F20 "Nexperia" 0 2200 50 H I L CNN "manufacturer"
+F21 "+125°C" 0 2300 50 H I L CNN "max junction temp"
+F22 "600mA" 0 2400 50 H I L CNN "max surge forward current"
+F23 "771-BAT54XYH" 0 2500 50 H I L CNN "mouser part number"
+F24 "SOT363" 0 2600 50 H I L CNN "package"
+F25 "2uA" 0 2700 50 H I L CNN "peak reverse current"
+F26 "30V" 0 2800 50 H I L CNN "reverse voltage"
+F27 "Yes" 0 2900 50 H I L CNN "rohs"
+F28 "+125°C" 0 3000 50 H I L CNN "temperature range high"
+DRAW
+X anode_1 1 100 0 100 R 40 0 1 1 P 
+X cathode1/anode2 6 700 0 100 L 40 0 1 1 P 
+X cathode_2 2 100 -300 100 R 40 0 1 1 P 
+P 2 1 1 0 300 100 300 -100 N
+P 2 1 1 0 500 100 500 -100 N
+P 2 1 1 0 300 100 500 0 N
+P 2 1 1 0 300 -100 500 0 N
+P 2 1 1 0 500 100 470 100 N
+P 2 1 1 0 530 -100 530 -70 N
+P 2 1 1 0 470 100 470 70 N
+P 2 1 1 0 500 -100 530 -100 N
+P 2 1 1 0 500 0 600 0 N
+P 2 1 1 0 600 0 600 -300 N
+P 2 1 1 0 500 -300 500 -200 N
+P 2 1 1 0 500 -200 500 -400 N
+P 2 1 1 0 500 -400 300 -300 N
+P 2 1 1 0 300 -300 500 -200 N
+P 2 1 1 0 300 -200 300 -400 N
+P 2 1 1 0 200 -300 300 -300 N
+P 2 1 1 0 500 -300 600 -300 N
+P 2 1 1 0 300 -200 270 -200 N
+P 2 1 1 0 300 -400 330 -400 N
+P 2 1 1 0 330 -400 330 -370 N
+P 2 1 1 0 200 0 300 0 N
+C 600 0 10 1 1 0 N
+P 2 1 1 0 270 -200 270 -220 N
+X anode4 4 100 0 100 R 40 0 2 1 P 
+X anode3/cathode4 3 700 0 100 L 40 0 2 1 P 
+X cathode3 5 100 -300 100 R 40 0 2 1 P 
+P 2 2 1 0 300 100 300 -100 N
+P 2 2 1 0 500 100 500 -100 N
+P 2 2 1 0 300 100 500 0 N
+P 2 2 1 0 300 -100 500 0 N
+P 2 2 1 0 500 100 470 100 N
+P 2 2 1 0 530 -100 530 -70 N
+P 2 2 1 0 470 100 470 70 N
+P 2 2 1 0 500 -100 530 -100 N
+P 2 2 1 0 600 0 700 0 N
+P 2 2 1 0 700 0 600 0 N
+P 2 2 1 0 600 0 600 -300 N
+P 2 2 1 0 600 -300 500 -300 N
+P 2 2 1 0 500 -300 500 -200 N
+P 2 2 1 0 500 -200 500 -400 N
+P 2 2 1 0 500 -400 300 -300 N
+P 2 2 1 0 300 -300 500 -200 N
+P 2 2 1 0 300 -300 300 -200 N
+P 2 2 1 0 300 -200 300 -400 N
+P 2 2 1 0 300 -200 270 -200 N
+P 2 2 1 0 270 -200 270 -230 N
+P 2 2 1 0 300 -400 330 -400 N
+P 2 2 1 0 330 -400 330 -370 N
+P 2 2 1 0 500 0 600 0 N
+P 2 2 1 0 200 0 300 0 N
+P 2 2 1 0 200 -300 300 -300 N
+C 600 0 10 2 1 0 N
+ENDDRAW
+ENDDEF
+#
+# End Library
